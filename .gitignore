@@ -1,2 +1,5 @@
 .idea
 com.cnpc.kibana.iml
+screenshots
+target
+src/main/java/shared/configuration/defaultConfigurationValues.properties
